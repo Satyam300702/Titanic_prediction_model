@@ -40,7 +40,7 @@ Seaborn & Matplotlib for visualization
 
 SMOTE for class balancing
 ------------------------------------------------------------------------------------------------------------------------------------------------
-
+pip install -r requirements.txt
 
 
 
