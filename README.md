@@ -42,6 +42,8 @@ SMOTE for class balancing
 ------------------------------------------------------------------------------------------------------------------------------------------------
 pip install -r requirements.txt
 
+Live demo :- https://titanicpredictionmodel-kv3vvnk6lx8jwnhrk6gahf.streamlit.app/
+
 
 
 
